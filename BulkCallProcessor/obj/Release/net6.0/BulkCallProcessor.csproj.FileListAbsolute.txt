@@ -1,0 +1,17 @@
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\bin\Release\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\bin\Release\net6.0\Cosmos.CRTCompat.dll
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\bin\Release\net6.0\msvcp140.dll
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\bin\Release\net6.0\vcruntime140.dll
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\bin\Release\net6.0\vcruntime140_1.dll
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\bin\Release\net6.0\BulkCallProcessor.deps.json
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\bin\Release\net6.0\BulkCallProcessor.dll
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\bin\Release\net6.0\BulkCallProcessor.pdb
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\obj\Release\net6.0\BulkCallProcessor.csproj.AssemblyReference.cache
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\obj\Release\net6.0\BulkCallProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\obj\Release\net6.0\BulkCallProcessor.AssemblyInfoInputs.cache
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\obj\Release\net6.0\BulkCallProcessor.AssemblyInfo.cs
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\obj\Release\net6.0\BulkCallProcessor.csproj.CoreCompileInputs.cache
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\obj\Release\net6.0\BulkCallProcessor.dll
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\obj\Release\net6.0\refint\BulkCallProcessor.dll
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\obj\Release\net6.0\BulkCallProcessor.pdb
+C:\Work\OneDrive - Microsoft\my Experiments\ContosoMobileSQL\Call Logger Application -Windows Form\BulkCallProcessor\obj\Release\net6.0\ref\BulkCallProcessor.dll

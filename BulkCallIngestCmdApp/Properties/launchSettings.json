@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BulkCallIngestCmdApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

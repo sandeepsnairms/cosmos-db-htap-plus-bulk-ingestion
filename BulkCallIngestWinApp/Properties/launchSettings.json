@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CallLog": {
+      "commandName": "Project",
+      "commandLineArgs": "offset=90 count=100 caller=091-945-123-0008"
+    }
+  }
+}
