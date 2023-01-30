@@ -1,12 +1,12 @@
 # Demo Scenarios
 
-## HTAP Demo using Synapse Link for Cosmos DB
+#### 1. HTAP Demo using Synapse Link for Cosmos DB
 
 An end to end demonstration of Cloud-native hybrid transactional and analytical processing (HTAP) capability that enables near real time analytics over operational data in Azure Cosmos DB using Azure Synapse Link for Cosmos DB.
 
 Synapse Link for Cosmos DB automatically syncs data between the Transaction store and Analytical store. The analytical store data can be processed using SQL Serverless or Spark runtime, thus making the analytical workload cost effective and independent of the transactional compute resources.
 
-## Instant Scalbility and Change Feed Demo/Materialized view
+#### 2. Instant Scalbility and Change Feed Demo/Materialized view
 
 Demonstrate how Cosmos DB can handle large data volumes instantanteously using auto scale. The demo uses Chnage feed to show how secondary containers can be upserted based on the data ingested into primary container./
 
