@@ -180,7 +180,7 @@ Refer to https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-scale?t
 
 1. Open the **MaterializedView_ChangeFeed** Spark Notebook from the Develop tab in Synapse Studio.
 2. Execute the scripts in sequence. Follow the instructions provided.
-3. The Script will process the ChanageFeed from teh CallRecords Container and create a materialized View in the "UnBilledCallRecords" container.
+3. The script will process the ChangeFeed from the CallRecords Container and create a materialized View in the "UnBilledCallRecords" container.
 
 
 ## Additional Resources
