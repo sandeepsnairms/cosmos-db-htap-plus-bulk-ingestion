@@ -176,7 +176,7 @@ Refer to https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-
 
 Refer to https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-scale?tabs=azure-cli#manually-scale-pods to scale the number of pods.
 
-## Chnage Feed using Spark Runtime : Update MaterializedView UnbilledCallRecords
+## Change Feed using Spark Runtime : Update MaterializedView UnbilledCallRecords
 
 1. Open the **MaterializedView_ChangeFeed** Spark Notebook from the Develop tab in Synapse Studio.
 2. Execute the scripts in sequence. Follow the instructions provided.
